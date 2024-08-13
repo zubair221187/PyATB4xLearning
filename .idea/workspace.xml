@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="Lab009 added">
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab010.py" afterDir="false" />
+    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="Lab010 added">
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab011.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,34 +55,14 @@
     "Python.Lab007.executor": "Run",
     "Python.Lab008.executor": "Run",
     "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab010">
-    <configuration name="Lab006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_10082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_10082024/Lab006.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Lab011">
     <configuration name="Lab007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
@@ -171,13 +151,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_10082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_10082024/Lab011.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab011" />
         <item itemvalue="Python.Lab010" />
         <item itemvalue="Python.Lab009" />
         <item itemvalue="Python.Lab008" />
         <item itemvalue="Python.Lab007" />
-        <item itemvalue="Python.Lab006" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723525913927</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lab010 added">
+      <option name="closed" value="true" />
+      <created>1723526157684</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723526157684</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,6 +283,7 @@
     <MESSAGE value="Lab007 added" />
     <MESSAGE value="Lab008 added" />
     <MESSAGE value="Lab009 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab009 added" />
+    <MESSAGE value="Lab010 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab010 added" />
   </component>
 </project>
