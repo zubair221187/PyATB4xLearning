@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="Lab014 added">
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab015.py" afterDir="false" />
+    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="Lab015 added">
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab016.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Python.Lab013.executor": "Run",
     "Python.Lab014.executor": "Run",
     "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -316,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725711768172</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Lab015 added">
+      <option name="closed" value="true" />
+      <created>1725711782709</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725711782709</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -333,7 +342,8 @@
     <MESSAGE value="Lab012 added" />
     <MESSAGE value="Lab013 added" />
     <MESSAGE value="Lab014 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab014 added" />
+    <MESSAGE value="Lab015 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab015 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
