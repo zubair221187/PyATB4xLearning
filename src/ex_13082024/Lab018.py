@@ -1,4 +1,4 @@
-a = pow(2,3)
+a = pow(3,3)
 print(a)
 
 b=abs(-1)
