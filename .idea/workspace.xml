@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="Lab026 added">
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab026.py" afterDir="false" />
+    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="Lab029 added">
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab030.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -425,13 +425,34 @@
       <option name="project" value="LOCAL" />
       <updated>1726419926047</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Lab027 added">
+      <option name="closed" value="true" />
+      <created>1726420070979</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1726420070979</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Lab028 added">
+      <option name="closed" value="true" />
+      <created>1726420175372</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1726420175372</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Lab029 added">
+      <option name="closed" value="true" />
+      <created>1726420219332</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1726420219332</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab002 added" />
-    <MESSAGE value="Lab003 added" />
-    <MESSAGE value="Lab004 added" />
     <MESSAGE value="Lab005 added" />
     <MESSAGE value="Lab006 added" />
     <MESSAGE value="Lab007 added" />
@@ -454,7 +475,10 @@
     <MESSAGE value="Lab024 added" />
     <MESSAGE value="Lab025 added" />
     <MESSAGE value="Lab026 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab026 added" />
+    <MESSAGE value="Lab027 added" />
+    <MESSAGE value="Lab028 added" />
+    <MESSAGE value="Lab029 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab029 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
