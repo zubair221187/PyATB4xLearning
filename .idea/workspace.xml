@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="Lab029 added">
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab030.py" afterDir="false" />
+    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="Lab033 added">
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab033.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -449,14 +449,42 @@
       <option name="project" value="LOCAL" />
       <updated>1726420219332</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Lab030 added">
+      <option name="closed" value="true" />
+      <created>1726420291391</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1726420291391</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Lab031 added">
+      <option name="closed" value="true" />
+      <created>1726420464363</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1726420464363</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Lab032 added">
+      <option name="closed" value="true" />
+      <created>1726420528719</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1726420528719</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Lab033 added">
+      <option name="closed" value="true" />
+      <created>1726420570016</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1726420570016</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab005 added" />
-    <MESSAGE value="Lab006 added" />
-    <MESSAGE value="Lab007 added" />
-    <MESSAGE value="Lab008 added" />
     <MESSAGE value="Lab009 added" />
     <MESSAGE value="Lab010 added" />
     <MESSAGE value="Lab011 added" />
@@ -478,7 +506,11 @@
     <MESSAGE value="Lab027 added" />
     <MESSAGE value="Lab028 added" />
     <MESSAGE value="Lab029 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab029 added" />
+    <MESSAGE value="Lab030 added" />
+    <MESSAGE value="Lab031 added" />
+    <MESSAGE value="Lab032 added" />
+    <MESSAGE value="Lab033 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab033 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
