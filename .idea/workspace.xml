@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="Lab019 added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="Lab020 added">
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab021.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Lab009">
+  <component name="RunManager">
     <configuration name="Lab009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
@@ -367,7 +367,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726403492775</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Lab020 added">
+      <option name="closed" value="true" />
+      <created>1726419179830</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1726419179830</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -389,7 +397,8 @@
     <MESSAGE value="Lab017 added" />
     <MESSAGE value="Lab018 added" />
     <MESSAGE value="Lab019 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab019 added" />
+    <MESSAGE value="Lab020 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab020 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
