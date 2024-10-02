@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="Task6 added">
+    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="Lab042 added">
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab054.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +206,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
@@ -593,11 +603,18 @@
       <option name="project" value="LOCAL" />
       <updated>1726421299004</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Lab042 added">
+      <option name="closed" value="true" />
+      <created>1727840670351</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1727840670351</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab023 added" />
     <MESSAGE value="Lab024 added" />
     <MESSAGE value="Lab025 added" />
     <MESSAGE value="Lab026 added" />
@@ -622,7 +639,8 @@
     <MESSAGE value="Task4 added" />
     <MESSAGE value="Task5 added" />
     <MESSAGE value="Task6 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task6 added" />
+    <MESSAGE value="Lab042 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab042 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
