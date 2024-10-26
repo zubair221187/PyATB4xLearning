@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="All the files for August 24 have been added.">
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab078.py" afterDir="false" />
+    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="File 93 added">
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab101.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -202,7 +204,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -214,86 +216,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723441371247</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Lab004 added">
-      <option name="closed" value="true" />
-      <created>1723464160492</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1723464160492</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Lab005 added">
-      <option name="closed" value="true" />
-      <created>1723464478561</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1723464478561</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Lab006 added">
-      <option name="closed" value="true" />
-      <created>1723467671025</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1723467671025</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Lab007 added">
-      <option name="closed" value="true" />
-      <created>1723468192741</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1723468192741</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Lab008 added">
-      <option name="closed" value="true" />
-      <created>1723525056624</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1723525056624</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Lab009 added">
-      <option name="closed" value="true" />
-      <created>1723525913927</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1723525913927</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Lab010 added">
-      <option name="closed" value="true" />
-      <created>1723526157684</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1723526157684</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Lab011 added">
-      <option name="closed" value="true" />
-      <created>1723526454115</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1723526454115</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Lab012 added">
-      <option name="closed" value="true" />
-      <created>1723527025453</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1723527025453</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Lab013 added">
-      <option name="closed" value="true" />
-      <created>1723527183594</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1723527183594</updated>
     </task>
     <task id="LOCAL-00013" summary="Lab014 added">
       <option name="closed" value="true" />
@@ -607,20 +529,90 @@
       <option name="project" value="LOCAL" />
       <updated>1727867060664</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="All the files for August 27 have been added.">
+      <option name="closed" value="true" />
+      <created>1727867904406</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1727867904406</updated>
+    </task>
+    <task id="LOCAL-00053" summary="File 83 added">
+      <option name="closed" value="true" />
+      <created>1729924140082</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1729924140083</updated>
+    </task>
+    <task id="LOCAL-00054" summary="File 84 added">
+      <option name="closed" value="true" />
+      <created>1729924203667</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1729924203667</updated>
+    </task>
+    <task id="LOCAL-00055" summary="File 85 added">
+      <option name="closed" value="true" />
+      <created>1729924216098</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1729924216098</updated>
+    </task>
+    <task id="LOCAL-00056" summary="File 86 added">
+      <option name="closed" value="true" />
+      <created>1729924226295</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1729924226295</updated>
+    </task>
+    <task id="LOCAL-00057" summary="File 87 added">
+      <option name="closed" value="true" />
+      <created>1729924236655</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1729924236655</updated>
+    </task>
+    <task id="LOCAL-00058" summary="File 88 added">
+      <option name="closed" value="true" />
+      <created>1729924248740</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1729924248741</updated>
+    </task>
+    <task id="LOCAL-00059" summary="File 89 added">
+      <option name="closed" value="true" />
+      <created>1729924260451</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1729924260451</updated>
+    </task>
+    <task id="LOCAL-00060" summary="File 90 added">
+      <option name="closed" value="true" />
+      <created>1729924269789</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1729924269789</updated>
+    </task>
+    <task id="LOCAL-00061" summary="File 93 added">
+      <option name="closed" value="true" />
+      <created>1729924280135</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1729924280135</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab026 added" />
-    <MESSAGE value="Lab027 added" />
-    <MESSAGE value="Lab028 added" />
-    <MESSAGE value="Lab029 added" />
-    <MESSAGE value="Lab030 added" />
-    <MESSAGE value="Lab031 added" />
-    <MESSAGE value="Lab032 added" />
-    <MESSAGE value="Lab033 added" />
-    <MESSAGE value="Lab034 added" />
-    <MESSAGE value="Lab035 added" />
     <MESSAGE value="Lab036 added" />
     <MESSAGE value="Lab037 added" />
     <MESSAGE value="Lab038 added" />
@@ -636,7 +628,17 @@
     <MESSAGE value="Lab042 added" />
     <MESSAGE value="All the files for August 22 have been added." />
     <MESSAGE value="All the files for August 24 have been added." />
-    <option name="LAST_COMMIT_MESSAGE" value="All the files for August 24 have been added." />
+    <MESSAGE value="All the files for August 27 have been added." />
+    <MESSAGE value="File 83 added" />
+    <MESSAGE value="File 84 added" />
+    <MESSAGE value="File 85 added" />
+    <MESSAGE value="File 86 added" />
+    <MESSAGE value="File 87 added" />
+    <MESSAGE value="File 88 added" />
+    <MESSAGE value="File 89 added" />
+    <MESSAGE value="File 90 added" />
+    <MESSAGE value="File 93 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="File 93 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
