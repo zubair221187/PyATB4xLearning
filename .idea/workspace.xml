@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="File 93 added">
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab094.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab095.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab101.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="All the files of 29 Aug have been added">
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab105.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,14 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723441371247</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Lab014 added">
-      <option name="closed" value="true" />
-      <created>1723542880903</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1723542880903</updated>
     </task>
     <task id="LOCAL-00014" summary="Lab014 added">
       <option name="closed" value="true" />
@@ -609,11 +593,18 @@
       <option name="project" value="LOCAL" />
       <updated>1729924280135</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="All the files of 29 Aug have been added">
+      <option name="closed" value="true" />
+      <created>1729925220174</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1729925220174</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab036 added" />
     <MESSAGE value="Lab037 added" />
     <MESSAGE value="Lab038 added" />
     <MESSAGE value="Lab039 added" />
@@ -638,7 +629,8 @@
     <MESSAGE value="File 89 added" />
     <MESSAGE value="File 90 added" />
     <MESSAGE value="File 93 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="File 93 added" />
+    <MESSAGE value="All the files of 29 Aug have been added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files of 29 Aug have been added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
