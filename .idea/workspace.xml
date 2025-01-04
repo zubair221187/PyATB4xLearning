@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d660fab-80bc-41a1-bb06-c4027fac7467" name="Changes" comment="All files of 3rd Sept added">
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_05092024/Lab122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_05092024/Lab123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_05092024/Lab124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_05092024/Lab125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_05092024/Lab126.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_05092024/Lab127.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_05092024/Lab128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_05092024/Lab129.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_05092024/Lab130.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,43 +54,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab110.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab111.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab112.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab115.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab116.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab117.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab118.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab119.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab120.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/user/PycharmProjects/PyATB4xLearning/src/Aug/ex_31082024&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab021.executor": "Run",
+    "Python.Lab022.executor": "Run",
+    "Python.Lab110.executor": "Run",
+    "Python.Lab111.executor": "Run",
+    "Python.Lab112.executor": "Run",
+    "Python.Lab115.executor": "Run",
+    "Python.Lab116.executor": "Run",
+    "Python.Lab117.executor": "Run",
+    "Python.Lab118.executor": "Run",
+    "Python.Lab119.executor": "Run",
+    "Python.Lab120.executor": "Run",
+    "Python.Lab122.executor": "Run",
+    "Python.Lab123.executor": "Run",
+    "Python.Lab124.executor": "Run",
+    "Python.Lab125.executor": "Run",
+    "Python.Lab126.executor": "Run",
+    "Python.Lab127.executor": "Run",
+    "Python.Lab128.executor": "Run",
+    "Python.Lab129.executor": "Run",
+    "Python.Lab130.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/user/PycharmProjects/PyATB4xLearning/src/Aug/ex_31082024",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Aug/ex_31082024" />
@@ -91,7 +110,7 @@
       <recent name="$PROJECT_DIR$/src/Aug" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab009">
+  <component name="RunManager">
     <configuration name="Lab009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
@@ -215,7 +234,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
       </set>
     </attachedChunks>
   </component>
@@ -227,14 +246,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723441371247</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Lab018 added">
-      <option name="closed" value="true" />
-      <created>1726402438014</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1726402438014</updated>
     </task>
     <task id="LOCAL-00019" summary="Lab018 added">
       <option name="closed" value="true" />
@@ -620,8 +631,27 @@
       <option name="project" value="LOCAL" />
       <updated>1731513477348</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="All files of 3rd Sept added">
+      <option name="closed" value="true" />
+      <created>1731513598246</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1731513598246</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab041 added" />
